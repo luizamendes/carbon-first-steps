@@ -1,0 +1,9 @@
+@import "~carbon-components/css/carbon-components.css";
+
+.contacts__button {
+  margin-top: 1rem;
+}
+
+.contacts__title {
+  margin-bottom: 1rem;
+}
